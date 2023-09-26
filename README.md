@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Achurale
 - 👀 I’m interested in games of all kinds, board games, video games, card games.
-- 🌱 I’m currently studying psychology in college.
+- 🌱 I’m currently in a fullstack coding course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
